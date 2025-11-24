@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PR5TypeScript/PR5TypeScript.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
